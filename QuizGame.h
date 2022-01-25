@@ -481,6 +481,7 @@ void help()
     printf("\n >> No negative marking for wrong answers");
 
 	printf("\n\n\t********BEST OF LUCK************");
+}
 
 void edit_score(float score, char playernm[20])
 {
